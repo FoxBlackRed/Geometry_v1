@@ -1,0 +1,12 @@
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\bin\Release\net7.0\Geometry.deps.json
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\bin\Release\net7.0\Geometry.dll
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\bin\Release\net7.0\Geometry.pdb
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.csproj.AssemblyReference.cache
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.AssemblyInfoInputs.cache
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.AssemblyInfo.cs
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.dll
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\refint\Geometry.dll
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\Geometry.pdb
+C:\Users\Gosha\source\repos\Geometry_Csh\Geometry\obj\Release\net7.0\ref\Geometry.dll
